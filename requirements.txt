@@ -4,4 +4,6 @@ matplotlib
 seaborn
 textblob
 nltk
-vaderSentiment
+vaderSentiment 
+spacy 
+scikit-learn
