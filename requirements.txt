@@ -8,4 +8,3 @@ vaderSentiment
 spacy 
 scikit-learn
 ta-lib
-pynance
