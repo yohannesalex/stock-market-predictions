@@ -32,6 +32,5 @@ To run the analysis, you will need to install the following dependencies:
 You can install these dependencies using pip:
 
 ```bash
-pip install pandas textblob nltk scikit-learn gensim matplotlib seaborn
-
+pip install ppandas numpy matplotlib seaborn textblob nltk vaderSentiment spacy scikit-learn ta-lib
 This version includes all the sections like **Data Preprocessing**, **Sentiment Analysis**, **Keyword Extraction**, **Topic Modeling**, **Publication Trends**, etc., in the markdown code block format. You can copy this into your `README.md` file for your project.
